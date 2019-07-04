@@ -35,7 +35,7 @@ How many slots out of 20 you want to be configured for Cars for floor number 2? 
 Application Setup END...
 *********************************************************************************
 Current parking status for Floor #1
-[P, P, P, P, P]
+[P, P, P, P, P] 
 [-, -, -, -, -]
 [P, P, P, P, P]
 [P, P, P, P, P]
