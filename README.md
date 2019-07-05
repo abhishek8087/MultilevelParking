@@ -1,16 +1,16 @@
 # MultilevelParking
-I have developed the solution as a command line runnable jar.
-Below are some test scenarios I went through.
-It can support any number of floors. 
-You can start by going to the target directory and write below command in command line:
-    java -jar MinasTirithParkingSystem-jar-with-dependencies.jar
+    I have developed the solution as a command line runnable jar.
+    Below are some test scenarios I went through.
+    It can support any number of floors. 
+    You can start by going to the target directory and write below command in command line:
+        java -jar MinasTirithParkingSystem-jar-with-dependencies.jar
 
-Some of the abbrevations used :
-  NF = Not filled
-  P = Empty parking slot.
-  Slot number - Ex: 1020
-                    Here, 1 denotes floor number
-                          0,2 denotes the co-ordinates in 6x5 matrix laid down as entire floor.
+    Some of the abbrevations used :
+      NF = Not filled
+      P = Empty parking slot.
+      Slot number - Ex: 1020
+                        Here, 1 denotes floor number
+                              0,2 denotes the co-ordinates in 6x5 matrix laid down as entire floor.
                           
                           For Cars, 0 = Upper slot
                                     1 = Lower slot
