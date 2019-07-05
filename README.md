@@ -19,7 +19,7 @@
                                      2-4 = Lower slot
    
                           
-    Also there are benefits on billing for repear customers 10% discount and car pooling customers get flat Rs. 10 off.
+    Also there are benefits on billing for repeat customers 10% discount and car pooling customers get flat Rs. 10 off.
 
 
 
