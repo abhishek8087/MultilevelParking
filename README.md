@@ -19,6 +19,10 @@ Some of the abbrevations used :
                                      2-4 = Lower slot
    
                           
+    Also there are benefits on billing for repear customers 10% discount and car pooling customers get flat Rs. 10 off.
+
+
+
 
 
 java -jar MinasTirithParkingSystem-jar-with-dependencies.jar
